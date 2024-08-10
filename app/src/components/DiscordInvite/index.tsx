@@ -4,7 +4,7 @@
 import React, { Component } from "react";
 import { styles, colors, CStyleSheet } from "./styles";
 
-export const inviteLink = "https://discord.com/oauth2/authorize?client_id=748971236276699247&permissions=8&scope=bot";
+export const inviteLink = "https://discord.gg/zySNSjmmpz";
 
 export default class DiscordInvite extends Component<Props, APIResponse | { success: null }> {
 
