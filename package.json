@@ -1,9 +1,9 @@
 {
-	"name": "shsgames",
-	"display-name": "SHS Games",
+	"name": "negames",
+	"display-name": "ne Games",
 	"version": "39.0.108",
 	"description": "Unblocked games • part of an inside job.",
-	"author": "Josh Merlino",
+	"author": "noah",
 	"license": "ISC",
 	"engines": {
 		"node": "20.x"
